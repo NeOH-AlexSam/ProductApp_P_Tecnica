@@ -23,10 +23,10 @@ Pasos para ejecutar el proyecto
 10. LISTO! (Ya se puede probar la aplicación)
 
 Credenciales de la BD
-Server: localhost,1433
-User Id: sa
-Password: P4ss@Dmin*123
+- Server: localhost,1433
+- User Id: sa
+- Password: P4ss@Dmin*123
 
 Credenciales del usuario administrador de la aplicacion:
-Correo: admin@gmail.com
-Contraseña: admin123
+- Correo: admin@gmail.com
+- Contraseña: admin123
