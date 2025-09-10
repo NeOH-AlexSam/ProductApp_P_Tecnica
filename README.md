@@ -1,6 +1,6 @@
 Herramientas utilizadas:
-Backend: Web API .NET 8
-Frontend: Next.js 15 / TypeScript
+Backend: Web API .NET 8,
+Frontend: Next.js 15 / TypeScript,
 Base de datos: SQL Server 2022
 
 Para ejecutar esta aplicacion se necesita: 
